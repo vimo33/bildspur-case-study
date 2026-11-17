@@ -1,0 +1,22 @@
+{
+  "prepared": "2026-11-17",
+  "purpose": "Independent review and integration package",
+  "mainWebsiteSource": "Not included; canonical GitHub connection to be supplied by Maurus",
+  "lighting": {
+    "enginePackage": "bar6-native-programs-20261107",
+    "layout": "24-tube demonstration based on saved 16-tube mapping plus 4 floor and 4 wall tubes",
+    "hardwareSocketsOpened": 0,
+    "capture": "Windows Graphics Capture, real application video",
+    "looks": [
+      "Flow",
+      "Pulse Rain",
+      "Aurora Field"
+    ]
+  },
+  "inventory": "Fresh screen recordings of collection, detail, discovery and map; no item modifications",
+  "structure": "Cat 16 hanging-mask preset selection and 3D orbit in the actual Structure Builder",
+  "social": "Finished lab and product reels from documented July 2026 alpha campaign; latest Instagram posting unverified",
+  "portrait": "User-supplied Tim Fuchs photo, edited background and crop",
+  "websiteCredits": "Original Bildspur × Samsbird website credits retained",
+  "osReference": "Earlier read-only snapshot; not current operational truth"
+}

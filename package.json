@@ -1,0 +1,14 @@
+{
+  "name": "bildspur-case-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:pages": "node build.mjs --base=/bildspur-case-study",
+    "build:production": "node build.mjs --production"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "en": {
+    "articles": 6,
+    "videoPlayers": 5,
+    "descriptiveAlternatives": 5,
+    "duplicateIDs": 0,
+    "missingLocalFiles": [],
+    "replacementChars": false,
+    "unresolvedTemplate": false,
+    "noindex": true
+  },
+  "de": {
+    "articles": 6,
+    "videoPlayers": 5,
+    "descriptiveAlternatives": 5,
+    "duplicateIDs": 0,
+    "missingLocalFiles": [],
+    "replacementChars": false,
+    "unresolvedTemplate": false,
+    "noindex": true
+  },
+  "media": {
+    "inventory-walkthrough.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1600,
+          "height": 748,
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "46.000000",
+        "size": "735623"
+      }
+    },
+    "led-forest-current.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1600,
+          "height": 748,
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "64.933333",
+        "size": "8514147"
+      }
+    },
+    "social-lab.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "30.966667",
+        "size": "4711355"
+      }
+    },
+    "social-product.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "28.166667",
+        "size": "2309654"
+      }
+    },
+    "structure-cat.mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1600,
+          "height": 748,
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "35.000000",
+        "size": "546714"
+      }
+    }
+  }
+}

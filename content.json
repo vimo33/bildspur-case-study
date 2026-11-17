@@ -1,0 +1,334 @@
+{
+  "en": {
+    "lang": "en",
+    "url": "/case-studies/bildspur/",
+    "otherUrl": "/de/fallstudien/bildspur/",
+    "otherLabel": "DE",
+    "title": "Bildspur — tools shaped by the work | Follow the Rabbit",
+    "description": "Inside Bildspur: purpose-built tools for light, studio operations and communication, developed around the people doing the work.",
+    "back": "Back to website",
+    "eyebrow": "Case study / Bildspur",
+    "headline": "One studio.<br>Many useful tools.",
+    "intro": "An immersive light experience needs more than a lighting effect. It needs a usable app, a kit you can find, a structure you can plan, and a studio that can keep the work moving.",
+    "contextTitle": "Start with the whole studio.",
+    "context": "Bildspur is part of our own creative practice. We build with the studio from the inside: understanding how installations are made, how the team works, and where a small, focused tool could help. Sometimes the answer is a micro tool. Sometimes it grows into a larger application.",
+    "contextEnd": "These are six examples of that approach. Each responds to a different need; the shared thread is the work and the people doing it.",
+    "heroAlt": "LED Forest 5 current engine showing an animated spatial point cloud and mapped tubes",
+    "heroCaption": "Current engine · demonstration room with wall and floor tubes · hardware output disabled",
+    "indexLabel": "Explore the work",
+    "indexIntro": "From the room to the work around it.",
+    "needLabel": "The need",
+    "responseLabel": "What we built",
+    "purposeLabel": "What it supports",
+    "viewImage": "Enlarge image",
+    "closeImage": "Close image",
+    "playLabel": "Watch the app preview",
+    "cases": [
+      {
+        "id": "led-forest",
+        "short": "Light & performance",
+        "name": "LED Forest 5",
+        "category": "01 / Experience",
+        "headline": "Make the light usable.",
+        "status": "Working app · evolving",
+        "need": "The person setting up an installation and the person performing with it need different things. For rental use, the rig has to be understandable. For Bildspur’s own performances, it also needs to be expressive.",
+        "response": "The app brings setup, spatial mapping, scene selection and live performance into a visual workspace. You can understand the arrangement on screen, explore looks and shape how the light behaves in the room.",
+        "purpose": [
+          "Making the rental service usable beyond the developer’s desk",
+          "Giving the studio an instrument for its own performances"
+        ],
+        "image": "led-forest-current.jpg",
+        "alt": "LED Forest 5 scene controls beside a three-dimensional preview of the lighting layout",
+        "caption": "Actual app capture · local engine preview · physical lighting output disabled",
+        "video": "led-forest-current.mp4",
+        "videoCaption": "65-second screen recording · Flow, Pulse Rain and Aurora Field · 3D orbit · demonstration layout, physical output disabled",
+        "videoDescription": "A silent walkthrough of the current LED Forest performance screen. A room-sized point cloud surrounds the mapped tubes. Flow paints the space in pale cyan and pink; the camera orbits so the volume and the floor and wall tubes can be seen from another angle. The look changes to Pulse Rain, then to Aurora Field with its authored green and turquoise colours. The animation continues while the viewpoint changes. This is a demonstration layout in an isolated engine; physical lighting output is disabled."
+      },
+      {
+        "id": "inventory",
+        "short": "Kit & materials",
+        "name": "Inventory OS",
+        "category": "02 / Resources",
+        "headline": "Work with what’s already there.",
+        "status": "In studio use",
+        "need": "Tools, components and materials live in different boxes and locations. Finding an object is one need; seeing what those objects could become together is another.",
+        "response": "Inventory OS makes the collection searchable and visual. Item records and locations support everyday retrieval, while discovery views, a canvas and an agent workspace help explore the materials behind a build idea.",
+        "purpose": [
+          "Finding and organising the studio’s physical resources",
+          "Turning a collection into material for creative work"
+        ],
+        "image": "inventory-walkthrough.jpg",
+        "alt": "Inventory OS visual collection browser showing photographed studio items",
+        "caption": "Inventory OS · collection view · portfolio capture from October 2026",
+        "video": "inventory-walkthrough.mp4",
+        "videoCaption": "Screen recording · scroll the collection, inspect an item, explore the map and discover combinations · 17 November 2026",
+        "videoDescription": "A silent tour of Inventory OS. The collection list shows photographed hardware and electronic components with item identifiers, boxes and locations. The page scrolls through cables, LED parts and controller boards and opens an item in the collection. The tour then shows Discover, where a small group of existing objects is presented with possible creative uses. It ends on the inventory map: coloured clusters arrange the collection by category, including cables, tools, electronics, materials and lighting. The recording browses existing information without creating or editing items."
+      },
+      {
+        "id": "structure",
+        "short": "Space & fabrication",
+        "name": "Structure Builder",
+        "category": "03 / Planning",
+        "headline": "Design with the actual kit.",
+        "status": "Working planning tool",
+        "need": "A free-form 3D model can suggest a shape without explaining how to make it from the studio’s tubes, hinges and hubs.",
+        "response": "The structure builder starts with those real components. A design grows from hub connections and hinge positions, becoming an ordered build plan. The interface brings the shape, component requirements and floor plan into the same planning process.",
+        "purpose": [
+          "Exploring spatial ideas with the kit’s geometry",
+          "Making the step from a screen to the workshop more concrete"
+        ],
+        "image": "structure-cat.jpg",
+        "alt": "Structure Builder with the selected cat-face mask preset",
+        "caption": "Running local application · portal preset · structural estimates remain subject to practical review",
+        "video": "structure-cat.mp4",
+        "videoCaption": "Screen recording · Cat 16 hanging-mask preset · orbit through the model in 3D",
+        "videoDescription": "A silent Structure Builder walkthrough. The library changes from the portal structure to the Cat 16 hanging-mask preset. White tube segments and grey hubs form a face with two pointed ears, cheeks and a lower jaw. A clearer front view shows the cat-face outline. The camera orbits gently around the selected structure, changing the perspective on its joints and the ground grid so the model can be understood in three dimensions. The right-hand controls identify the preset and the available hub arms and hinge angles."
+      },
+      {
+        "id": "studio-os",
+        "short": "Knowledge & decisions",
+        "name": "Bildspur OS",
+        "category": "04 / Operations",
+        "headline": "Give the work a shared place.",
+        "status": "Internal studio tool",
+        "need": "Ideas, research, decisions and tasks can drift apart across conversations. A studio working with agents also needs to see what was proposed, what was accepted and what actually changed.",
+        "response": "Bildspur OS gives shared knowledge and operations a working surface. Direction connects to outcomes and tasks, while review and activity history make agent-assisted work inspectable by the people responsible for it.",
+        "purpose": [
+          "Keeping context alongside the work it informs",
+          "Giving people a clear place to review and continue agent work"
+        ],
+        "image": "bildspur-os.jpg",
+        "alt": "Archived read-only Bildspur OS interface showing shared-board navigation and filters",
+        "caption": "Bildspur OS · interface reference from an earlier read-only snapshot"
+      },
+      {
+        "id": "website",
+        "short": "Work & presence",
+        "name": "The Bildspur website",
+        "category": "05 / Communication",
+        "headline": "Let people experience the work.",
+        "status": "Public website",
+        "need": "Light, space and interaction are difficult to explain as a list of services. People need a way to see the work and imagine what a space could become.",
+        "response": "The web work brings project imagery, stories and interactive studies into an experience people can explore. The current Bildspur × Samsbird site shows selected work with its original studio credits and offers a clear way to start a conversation.",
+        "purpose": [
+          "Making physical work understandable online",
+          "Connecting creative exploration with a useful next step"
+        ],
+        "image": "bildspur-website.png",
+        "alt": "Current Bildspur × Samsbird website with its One gesture. A whole space. headline and credited project image",
+        "caption": "Public website captured 17 November 2026 · original project credits retained",
+        "link": "https://bildspur.xyz/",
+        "linkLabel": "Visit the current website"
+      },
+      {
+        "id": "content",
+        "short": "Media & storytelling",
+        "name": "Social-media workflow",
+        "category": "06 / Communication",
+        "headline": "Give the material a path.",
+        "status": "Finished campaign reels",
+        "need": "App clips, installation footage and behind-the-scenes material have to become a coherent story, with a suitable format and a clear next production step.",
+        "response": "The workflow brings a campaign brief, asset selection and repeatable video templates together. Existing installation and behind-the-scenes footage becomes a connected sequence of short vertical films. These two finished exports show the lab and the product from the July 2026 campaign.",
+        "purpose": [
+          "Planning a consistent story across different formats",
+          "Making media selection and production handoff explicit"
+        ],
+        "image": "campaign-reference.png",
+        "alt": "Actual Bildspur campaign content-bank reference board with multiple formats and media treatments",
+        "caption": "Campaign production package · directional content-bank reference board",
+        "reels": [
+          {
+            "file": "social-lab.mp4",
+            "poster": "social-lab.jpg",
+            "title": "In the lab",
+            "caption": "Lab reel · July 2026 campaign · 31 seconds",
+            "description": "A silent vertical campaign film opens on blue-violet LED tubes in the studio. A dotted Bildspur wordmark appears above “IS BACK.” A wider view shows a person at a desk surrounded by equipment, with “WE WERE COOKING IN THE LAB.” Green grid cards introduce “2 000+ items” and “a new colleague,” described on screen as an AI member. “LED FOREST, IN YOUR HAND” accompanies a phone-shaped preview of the lighting interface. A close-up of an illuminated tube introduces “EVERY TUBE HAS A NAME,” with a row of coloured tube identities. Another close-up shows a tube fixed into a black multi-foot stand beneath “NEW STANDS, BUILT BY US.” The final cards read “control box · labeled cables” and “road cases for everything.” Small green dots progress along the bottom. These are the historical campaign’s on-screen claims."
+          },
+          {
+            "file": "social-product.mp4",
+            "poster": "social-product.jpg",
+            "title": "The product",
+            "caption": "Product reel · July 2026 campaign · 28 seconds",
+            "description": "A silent vertical campaign film shows a person holding a laptop beneath suspended light tubes in a dark venue. The tubes change from green-white to pink as “OUR SIGNATURE INSTALLATION” gives way to “REIMAGINED.” A dotted title introduces “LF 16,” described as the same forest, sized to travel. Purple-lit venue footage carries “ENTRY LEVEL. RENTAL FRIENDLY.” A specification card lists sixteen addressable tubes, twenty-four pixels per tube, 1.5-metre length, one control cube, phone mapping, a fifteen-to-thirty-minute setup and one 230-volt supply. “PROFESSIONAL GRADE TOOLS” appears beside a phone-shaped preview of a three-dimensional lighting interface. Returning to the performer and ceiling rig, the film reads “ANY SPACE BECOMES IMMERSIVE.” It ends with a green grid card: “LF 32 · Kit 16 · Kit 32,” marked as already in the pipeline. These are historical campaign claims."
+          }
+        ]
+      }
+    ],
+    "closingEyebrow": "The approach",
+    "closingTitle": "Understand the context.<br>Build what helps.",
+    "closingText": "The starting point is a company’s real work. We identify needs together, choose a useful place to begin, and develop tools that people can try in practice. What we learn there informs the next step.",
+    "closingSmall": "Bildspur shows this approach from within our own practice: focused tools and larger applications, developed around different needs across the studio.",
+    "cta": "Talk about a need in your team",
+    "footer": "Follow the Rabbit / Bildspur case study",
+    "top": "Back to top",
+    "fullRecording": "Open full recording",
+    "reviewFiles": "Review files for Maurus",
+    "clipDescription": "What this clip shows"
+  },
+  "de": {
+    "lang": "de",
+    "url": "/de/fallstudien/bildspur/",
+    "otherUrl": "/case-studies/bildspur/",
+    "otherLabel": "EN",
+    "title": "Bildspur — Werkzeuge aus dem Arbeitsalltag | Follow the Rabbit",
+    "description": "Ein Einblick in Bildspur: eigens entwickelte Werkzeuge für Licht, Studioalltag und Kommunikation, gemeinsam mit den Menschen entwickelt, die damit arbeiten.",
+    "back": "Zur Website",
+    "eyebrow": "Fallstudie / Bildspur",
+    "headline": "Ein Studio.<br>Viele nützliche Werkzeuge.",
+    "intro": "Ein immersives Lichterlebnis braucht mehr als einen Lichteffekt. Es braucht eine bedienbare App, auffindbares Material, eine planbare Struktur und ein Studio, das die Arbeit voranbringt.",
+    "contextTitle": "Das ganze Studio verstehen.",
+    "context": "Bildspur ist Teil unserer eigenen kreativen Praxis. Wir entwickeln gemeinsam mit dem Studio und aus seinem Alltag heraus: Wie entstehen Installationen? Wie arbeitet das Team? Wo könnte ein kleines, gezieltes Werkzeug helfen? Manchmal reicht ein Mikro-Tool. Manchmal wird daraus eine grössere Anwendung.",
+    "contextEnd": "Sechs Beispiele zeigen diesen Ansatz. Jedes greift einen anderen Bedarf auf. Der gemeinsame Faden sind die Arbeit und die Menschen dahinter.",
+    "heroAlt": "Aktueller LED-Forest-5-Engine mit räumlicher Punktwolke und gemappten Rohren",
+    "heroCaption": "Aktueller Engine · Demonstrationsraum mit Wand- und Bodenrohren · Hardware-Ausgabe deaktiviert",
+    "indexLabel": "Die Arbeit entdecken",
+    "indexIntro": "Vom Raum zur Arbeit rundherum.",
+    "needLabel": "Der Bedarf",
+    "responseLabel": "Was wir entwickelt haben",
+    "purposeLabel": "Wobei es hilft",
+    "viewImage": "Bild vergrössern",
+    "closeImage": "Bild schliessen",
+    "playLabel": "App-Vorschau ansehen",
+    "cases": [
+      {
+        "id": "led-forest",
+        "short": "Licht & Performance",
+        "name": "LED Forest 5",
+        "category": "01 / Erlebnis",
+        "headline": "Das Licht bedienbar machen.",
+        "status": "Funktionierende App · in Entwicklung",
+        "need": "Wer eine Installation aufbaut, braucht etwas anderes als jemand, der damit live auftritt. Für die Vermietung muss das System verständlich sein. Für Bildspurs eigene Performances soll es zugleich ein ausdrucksstarkes Instrument sein.",
+        "response": "Die App verbindet Einrichtung, räumliches Mapping, Szenenauswahl und Live-Performance in einer visuellen Arbeitsfläche. Die Anordnung lässt sich am Bildschirm verstehen, Looks können erkundet und das Licht im Raum gestaltet werden.",
+        "purpose": [
+          "Die Vermietung über den Entwicklerarbeitsplatz hinaus nutzbar machen",
+          "Dem Studio ein Instrument für eigene Performances geben"
+        ],
+        "image": "led-forest-current.jpg",
+        "alt": "LED Forest 5 mit Szenensteuerung und dreidimensionaler Vorschau der Lichtanordnung",
+        "caption": "Echte App-Aufnahme · lokale Engine-Vorschau · physische Lichtausgabe deaktiviert",
+        "video": "led-forest-current.mp4",
+        "videoCaption": "65-Sekunden-Bildschirmaufnahme · Flow, Pulse Rain und Aurora Field · 3D-Orbit · Demonstrationslayout, physische Ausgabe deaktiviert",
+        "videoDescription": "Stiller Rundgang durch die aktuelle LED-Forest-Performance-Ansicht. Eine raumfüllende Punktwolke umgibt die gemappten Rohre. Flow färbt den Raum in hellem Cyan und Rosa. Die Kamera dreht sich, sodass das Volumen sowie die Boden- und Wandrohre aus einem anderen Winkel sichtbar werden. Der Look wechselt zu Pulse Rain und danach zu Aurora Field mit seinen grünen und türkisen Originalfarben. Die Animation läuft während der Kamerabewegung weiter. Gezeigt wird ein Demonstrationslayout in einem isolierten Engine; die physische Lichtausgabe ist deaktiviert."
+      },
+      {
+        "id": "inventory",
+        "short": "Kit & Material",
+        "name": "Inventory OS",
+        "category": "02 / Ressourcen",
+        "headline": "Mit dem arbeiten, was da ist.",
+        "status": "Im Studio im Einsatz",
+        "need": "Werkzeuge, Komponenten und Material sind auf verschiedene Kisten und Orte verteilt. Einen Gegenstand zu finden, ist ein Bedarf. Zu erkennen, was aus diesen Dingen gemeinsam werden könnte, ist ein weiterer.",
+        "response": "Inventory OS macht die Sammlung durchsuchbar und visuell zugänglich. Einträge und Standorte helfen beim Wiederfinden. Entdeckungsansichten, Canvas und Agent-Arbeitsfläche helfen dabei, das Material hinter einer Bauidee zu erkunden.",
+        "purpose": [
+          "Die physischen Ressourcen des Studios finden und organisieren",
+          "Eine Sammlung als Material für kreative Arbeit nutzen"
+        ],
+        "image": "inventory-walkthrough.jpg",
+        "alt": "Visuelle Sammlung fotografierter Studio-Gegenstände in Inventory OS",
+        "caption": "Inventory OS · Sammlungsansicht · Portfolio-Aufnahme vom Oktober 2026",
+        "video": "inventory-walkthrough.mp4",
+        "videoCaption": "Bildschirmaufnahme · Sammlung durchscrollen, ein Objekt ansehen, Karte und Kombinationen erkunden · 17. November 2026",
+        "videoDescription": "Stiller Rundgang durch Inventory OS. Die Sammlung zeigt fotografierte Hardware und Elektronik mit Objekt-IDs, Boxen und Standorten. Die Seite scrollt durch Kabel, LED-Teile und Controller-Platinen und öffnet ein Objekt in der Sammlung. Danach folgt Discover: Eine kleine Auswahl vorhandener Objekte wird mit möglichen kreativen Anwendungen gezeigt. Am Ende ordnen farbige Cluster die Sammlung auf einer Karte nach Kategorien wie Kabel, Werkzeuge, Elektronik, Materialien und Licht. Die Aufnahme zeigt vorhandene Informationen; es werden keine Objekte erstellt oder bearbeitet."
+      },
+      {
+        "id": "structure",
+        "short": "Raum & Bau",
+        "name": "Structure Builder",
+        "category": "03 / Planung",
+        "headline": "Mit dem echten Kit entwerfen.",
+        "status": "Funktionierendes Planungswerkzeug",
+        "need": "Ein freies 3D-Modell kann eine Form zeigen, ohne zu erklären, wie sie sich aus den Rohren, Gelenken und Knoten des Studios bauen lässt.",
+        "response": "Der Structure Builder beginnt mit diesen realen Komponenten. Ein Entwurf wächst aus Knotenverbindungen und Gelenkpositionen zu einer geordneten Baufolge. Form, Komponentenbedarf und Grundriss werden im gleichen Planungsprozess sichtbar.",
+        "purpose": [
+          "Räumliche Ideen mit der Geometrie des Kits erkunden",
+          "Den Schritt vom Bildschirm in die Werkstatt konkret machen"
+        ],
+        "image": "structure-cat.jpg",
+        "alt": "Structure Builder mit ausgewähltem Katzenmasken-Preset",
+        "caption": "Laufende lokale Anwendung · Portal-Preset · strukturelle Schätzungen brauchen praktische Prüfung",
+        "video": "structure-cat.mp4",
+        "videoCaption": "Bildschirmaufnahme · Cat-16-Preset «hanging mask» · Modell im 3D-Orbit ansehen",
+        "videoDescription": "Stiller Rundgang durch den Structure Builder. Die Bibliothek wechselt von der Portalstruktur zum Preset Cat 16 «hanging mask». Weisse Rohrsegmente und graue Knoten bilden ein Gesicht mit zwei spitzen Ohren, Wangen und Unterkiefer. Eine deutlichere Vorderansicht zeigt den Umriss des Katzengesichts. Die Kamera dreht sich sanft um die gewählte Struktur. Die veränderte Perspektive auf Knoten und Bodenraster macht das dreidimensionale Modell erkennbar. Die Bedienfläche rechts zeigt das Preset sowie verfügbare Knotenarme und Gelenkwinkel."
+      },
+      {
+        "id": "studio-os",
+        "short": "Wissen & Entscheidungen",
+        "name": "Bildspur OS",
+        "category": "04 / Betrieb",
+        "headline": "Der Arbeit einen gemeinsamen Ort geben.",
+        "status": "Internes Studio-Werkzeug",
+        "need": "Ideen, Recherche, Entscheidungen und Aufgaben können zwischen Gesprächen auseinanderdriften. Ein Studio, das mit Agenten arbeitet, muss ausserdem erkennen können, was vorgeschlagen, angenommen und tatsächlich verändert wurde.",
+        "response": "Bildspur OS gibt gemeinsamem Wissen und Betrieb eine Arbeitsfläche. Die Ausrichtung verbindet sich mit Zielen und Aufgaben. Prüfung und Aktivitätsverlauf machen die agentengestützte Arbeit für die verantwortlichen Menschen nachvollziehbar.",
+        "purpose": [
+          "Kontext bei der Arbeit halten, die er unterstützt",
+          "Menschen einen klaren Ort zum Prüfen und Weiterarbeiten geben"
+        ],
+        "image": "bildspur-os.jpg",
+        "alt": "Archivierte schreibgeschützte Bildspur-OS-Ansicht mit Board-Navigation und Filtern",
+        "caption": "Bildspur OS · Oberflächenreferenz aus einem früheren schreibgeschützten Snapshot"
+      },
+      {
+        "id": "website",
+        "short": "Arbeit & Auftritt",
+        "name": "Die Bildspur-Website",
+        "category": "05 / Kommunikation",
+        "headline": "Die Arbeit erlebbar machen.",
+        "status": "Öffentliche Website",
+        "need": "Licht, Raum und Interaktion lassen sich schwer als Leistungsliste erklären. Menschen brauchen einen Zugang, um die Arbeit zu sehen und sich vorzustellen, was aus einem Raum werden könnte.",
+        "response": "Die Web-Arbeit verbindet Projektbilder, Geschichten und interaktive Studien zu einem erkundbaren Erlebnis. Die aktuelle Bildspur-×-Samsbird-Website zeigt ausgewählte Arbeiten mit ihren ursprünglichen Studio-Credits und bietet einen klaren Einstieg ins Gespräch.",
+        "purpose": [
+          "Physische Arbeit online verständlich machen",
+          "Kreative Erkundung mit einem sinnvollen nächsten Schritt verbinden"
+        ],
+        "image": "bildspur-website.png",
+        "alt": "Aktuelle Bildspur-×-Samsbird-Website mit Headline und ausgewiesenem Projektbild",
+        "caption": "Öffentliche Website, aufgenommen am 17. November 2026 · ursprüngliche Projekt-Credits erhalten",
+        "link": "https://bildspur.xyz/",
+        "linkLabel": "Aktuelle Website besuchen"
+      },
+      {
+        "id": "content",
+        "short": "Medien & Geschichten",
+        "name": "Social-Media-Workflow",
+        "category": "06 / Kommunikation",
+        "headline": "Dem Material einen Weg geben.",
+        "status": "Fertige Kampagnen-Reels",
+        "need": "App-Clips, Installationsaufnahmen und Einblicke hinter die Kulissen sollen eine zusammenhängende Geschichte ergeben — mit einem passenden Format und einem klaren nächsten Produktionsschritt.",
+        "response": "Der Workflow verbindet Kampagnenbriefing, Medienauswahl und wiederverwendbare Video-Vorlagen. Vorhandene Installations- und Behind-the-Scenes-Aufnahmen werden zu einer zusammenhängenden Reihe kurzer vertikaler Filme. Diese zwei fertigen Exporte zeigen Labor und Produkt aus der Kampagne vom Juli 2026.",
+        "purpose": [
+          "Eine stimmige Geschichte über verschiedene Formate planen",
+          "Medienauswahl und Produktionsübergabe explizit machen"
+        ],
+        "image": "campaign-reference.png",
+        "alt": "Echtes Content-Bank-Referenzboard des Bildspur-Kampagnenpakets mit mehreren Formaten und Medienbehandlungen",
+        "caption": "Kampagnen-Produktionspaket · Content-Bank als visuelle Richtungsreferenz",
+        "reels": [
+          {
+            "file": "social-lab.mp4",
+            "poster": "social-lab.jpg",
+            "title": "Im Labor",
+            "caption": "Labor-Reel · Kampagne Juli 2026 · 31 Sekunden",
+            "description": "Ein stummer vertikaler Kampagnenfilm beginnt mit blau-violetten LED-Rohren im Studio. Das gepunktete Bildspur-Logo erscheint über «IS BACK». Eine Person sitzt am Schreibtisch zwischen Geräten; dazu steht «WE WERE COOKING IN THE LAB». Grüne Rasterkarten zeigen «2 000+ items» und «a new colleague», auf dem Bildschirm als KI-Mitglied beschrieben. Zu «LED FOREST, IN YOUR HAND» erscheint eine telefonförmige Vorschau der Lichtoberfläche. Eine Nahaufnahme eines leuchtenden Rohrs führt zu «EVERY TUBE HAS A NAME» und farbigen Rohr-IDs. Ein Rohr in einem schwarzen mehrfüssigen Ständer begleitet «NEW STANDS, BUILT BY US». Die letzten Karten nennen «control box · labeled cables» und «road cases for everything». Kleine grüne Punkte markieren den Fortschritt am unteren Rand. Diese Texte gehören zur historischen Kampagne."
+          },
+          {
+            "file": "social-product.mp4",
+            "poster": "social-product.jpg",
+            "title": "Das Produkt",
+            "caption": "Produkt-Reel · Kampagne Juli 2026 · 28 Sekunden",
+            "description": "Ein stummer vertikaler Kampagnenfilm zeigt eine Person mit Laptop unter hängenden Lichtrohren in einem dunklen Veranstaltungsraum. Die Rohre wechseln von Grün-Weiss zu Rosa; auf «OUR SIGNATURE INSTALLATION» folgt «REIMAGINED». Ein gepunkteter Titel stellt «LF 16» als transportable Variante vor. Violette Aufnahmen tragen «ENTRY LEVEL. RENTAL FRIENDLY». Eine Karte nennt sechzehn adressierbare Rohre, vierundzwanzig Pixel pro Rohr, 1,5 Meter Länge, einen Control Cube, Smartphone-Mapping, fünfzehn bis dreissig Minuten Aufbau und eine 230-Volt-Versorgung. «PROFESSIONAL GRADE TOOLS» erscheint neben einer telefonförmigen 3D-Lichtvorschau. Zurück bei Person und Deckenrig steht «ANY SPACE BECOMES IMMERSIVE». Der Film endet mit einer grünen Rasterkarte «LF 32 · Kit 16 · Kit 32», als bereits in Planung markiert. Dies sind Aussagen der historischen Kampagne."
+          }
+        ]
+      }
+    ],
+    "closingEyebrow": "Der Ansatz",
+    "closingTitle": "Den Kontext verstehen.<br>Bauen, was hilft.",
+    "closingText": "Der Ausgangspunkt ist die tatsächliche Arbeit eines Unternehmens. Gemeinsam erkennen wir Bedürfnisse, wählen einen sinnvollen Anfang und entwickeln Werkzeuge, die Menschen im Alltag ausprobieren können. Was wir dabei lernen, bestimmt den nächsten Schritt.",
+    "closingSmall": "Bildspur zeigt diesen Ansatz aus unserer eigenen Praxis: gezielte Werkzeuge und grössere Anwendungen, entwickelt für unterschiedliche Bedürfnisse im Studio.",
+    "cta": "Über einen Bedarf in eurem Team sprechen",
+    "footer": "Follow the Rabbit / Fallstudie Bildspur",
+    "top": "Nach oben",
+    "fullRecording": "Aufnahme gross öffnen",
+    "reviewFiles": "Review-Dateien für Maurus",
+    "clipDescription": "Was dieser Clip zeigt"
+  }
+}
