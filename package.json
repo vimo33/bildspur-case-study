@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
-    "build:pages": "node build.mjs --base=/bildspur-case-study",
-    "build:production": "node build.mjs --production"
+    "build:pages": "node build.mjs --base=/bildspur-case-study && python pilot-update/build.py --base=/bildspur-case-study",
+    "build:production": "node build.mjs --production",
+    "build:pilots": "python pilot-update/build.py --base=/bildspur-case-study"
   },
   "engines": {
     "node": ">=22"

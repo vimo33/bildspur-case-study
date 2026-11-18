@@ -33,3 +33,9 @@ The old LED portfolio clip and directional social reference board are superseded
 ## Verification
 
 All five MP4s were probed for browser-compatible H.264 / yuv420p playback. Both generated languages have six sections, five players and local assets. Independent Codex CLI review raised descriptive alternatives and production-footer integration; both were addressed.
+
+## Pilot review — 18 November 2026
+
+The new [pilot preview](https://vimo33.github.io/bildspur-case-study/pilots/) includes RTW, an illustrative Kenya MPS interface, Evi's supplied sample-data screens, a museum placeholder for Maurus, and Guillaume's edited portrait with the bio supplied by Vikas. English and German pages are included.
+
+See [PILOTS-HANDOFF.md](PILOTS-HANDOFF.md) for editing, public-content boundaries and main-site integration. Python 3.10+ is additionally needed for `npm run build:pages`; `npm run build:pilots` rebuilds only the new pages. The main FTR site and Netlify configuration are unchanged.

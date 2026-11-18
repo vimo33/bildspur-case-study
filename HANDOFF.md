@@ -31,3 +31,7 @@ Run `npm run build:production` for integration to omit the review-files footer l
 Repository: https://github.com/vimo33/bildspur-case-study
 
 Use Code → Download ZIP or clone this repository. All recordings, images and the edited Tim portrait are included under docs/. No production credentials or engine configuration are included.
+
+## Pilot pages and Guillaume
+
+The 18 November update is described in [PILOTS-HANDOFF.md](PILOTS-HANDOFF.md), with a separate [pilot preview](https://vimo33.github.io/bildspur-case-study/pilots/). Its fragments are intended for the latest canonical homepage; the standalone review stylesheet should not be embedded in that homepage.

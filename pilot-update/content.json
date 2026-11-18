@@ -1,0 +1,200 @@
+{
+  "en": {
+    "section": "Pilots",
+    "phase": "In development",
+    "teamHeadline": "Five perspectives.",
+    "previewTitle": "Pilots / Projects",
+    "intro": "Focused pilots, shaped around real work.",
+    "lede": "We test promising ideas with the people who will use them. From freight workflows to research systems, each pilot starts with a concrete question.",
+    "caption": "Illustrative interface · the research workflow, not live client results",
+    "researchTabs": [
+      "Research",
+      "Evidence",
+      "Review"
+    ],
+    "researchLabel": "Multi-agent research",
+    "researchStep": [
+      "Independent research",
+      "Cross-checking",
+      "Expert judgement"
+    ],
+    "sourceTitle": "Keep the source with the claim.",
+    "sourceBody": "Inspect the original material, compare interpretations and carry open questions into review.",
+    "reviewTitle": "Bring the findings to people.",
+    "reviewBody": "Experts assess the context, challenge the synthesis and decide what deserves a closer look.",
+    "items": [
+      {
+        "id": "rtw",
+        "name": "RTW",
+        "field": "Air-freight workflows",
+        "status": "Workflow pilot",
+        "headline": "From enquiry to a reviewable quote.",
+        "summary": "A pilot for structuring air-freight enquiries, preparing supplier requests and comparing replies in one reviewable workflow.",
+        "title": "Keep the request moving.",
+        "body": "The pilot brings shipment details, missing information and supplier offers into a shared view. The team can follow the enquiry through to an internal review.",
+        "supports": [
+          "Structured shipment details",
+          "Comparable supplier offers",
+          "A clear review before the next step"
+        ],
+        "image": "rtw-pilot.jpg",
+        "alt": "RTW QuoteFlow controlled demonstration with fictional air-freight data",
+        "caption": "Workflow illustration · fictional shipment and supplier details"
+      },
+      {
+        "id": "museum",
+        "name": "Museum",
+        "field": "Pilot project",
+        "status": "Preview to follow",
+        "headline": "Museum pilot.",
+        "summary": "A closer look at this pilot will follow.",
+        "deferred": true
+      },
+      {
+        "id": "mps",
+        "name": "MPS",
+        "field": "Multi-agent research",
+        "status": "Research pilot",
+        "headline": "See how the risks connect.",
+        "summary": "A research pilot exploring how food, climate and debt pressures connect—and how the organisations working on them fit into the picture.",
+        "title": "Give research more perspectives.",
+        "body": "Independent research streams explore different source angles. Their findings are compared, linked to evidence and brought into a shared map for human review.",
+        "supports": [
+          "Research across connected systems",
+          "Claims linked to original sources",
+          "Cross-checking and expert judgement"
+        ],
+        "domains": [
+          "Food systems",
+          "Climate pressures",
+          "Debt dynamics"
+        ],
+        "question": "How do these systems affect one another?",
+        "uiType": "mps",
+        "caption": "Kenya interface study · sample variables and connections · not a country assessment"
+      },
+      {
+        "id": "evi",
+        "name": "Evi / Earth Voice Index",
+        "field": "Multi-agent research",
+        "status": "Research pilot",
+        "headline": "Explore environmental knowledge together.",
+        "summary": "A research pilot exploring environmental pressures, the systems they affect and the connections between them.",
+        "title": "Bring the field into view.",
+        "body": "Parallel research streams explore different parts of an environmental system. Sources, uncertainty and connections come together in a shared view, with cross-checking and expert judgement before interpretation.",
+        "supports": [
+          "Explore connected environmental variables",
+          "Trace findings back to sources",
+          "Keep uncertainty and expert context visible"
+        ],
+        "domains": [
+          "Freshwater",
+          "Forest landscapes",
+          "Coastal ecosystems"
+        ],
+        "question": "Where can different perspectives connect?",
+        "uiType": "evi",
+        "caption": "Supplied prototype screens · illustrative sample data · not a regional assessment"
+      }
+    ]
+  },
+  "de": {
+    "section": "Pilotprojekte",
+    "phase": "In Entwicklung",
+    "teamHeadline": "Fünf Perspektiven.",
+    "previewTitle": "Pilotprojekte / Projekte",
+    "intro": "Gezielte Piloten, nah an der Arbeit.",
+    "lede": "Wir testen vielversprechende Ideen mit den Menschen, die sie nutzen werden. Von Frachtabläufen bis zu Recherche-Systemen beginnt jeder Pilot mit einer konkreten Frage.",
+    "caption": "Illustrative Oberfläche · Recherche-Workflow, keine aktuellen Kundenergebnisse",
+    "researchTabs": [
+      "Recherche",
+      "Belege",
+      "Prüfung"
+    ],
+    "researchLabel": "Multi-Agenten-Recherche",
+    "researchStep": [
+      "Unabhängige Recherche",
+      "Gegenprüfung",
+      "Fachliche Einordnung"
+    ],
+    "sourceTitle": "Die Quelle bei der Aussage halten.",
+    "sourceBody": "Originalmaterial ansehen, Interpretationen vergleichen und offene Fragen in die Prüfung mitnehmen.",
+    "reviewTitle": "Erkenntnisse gemeinsam prüfen.",
+    "reviewBody": "Fachleute beurteilen den Kontext, hinterfragen die Synthese und entscheiden, was genauer betrachtet werden sollte.",
+    "items": [
+      {
+        "id": "rtw",
+        "name": "RTW",
+        "field": "Luftfracht-Workflows",
+        "status": "Workflow-Pilot",
+        "headline": "Von der Anfrage zur prüfbaren Offerte.",
+        "summary": "Ein Pilot, der Luftfrachtanfragen strukturiert, Lieferantenanfragen vorbereitet und Antworten in einem nachvollziehbaren Ablauf vergleicht.",
+        "title": "Die Anfrage in Bewegung halten.",
+        "body": "Sendungsdaten, fehlende Angaben und Lieferantenangebote kommen in einer gemeinsamen Ansicht zusammen. Das Team kann die Anfrage bis zur internen Prüfung verfolgen.",
+        "supports": [
+          "Strukturierte Sendungsdaten",
+          "Vergleichbare Lieferantenangebote",
+          "Ein klarer Prüfschritt vor dem weiteren Vorgehen"
+        ],
+        "image": "rtw-pilot.jpg",
+        "alt": "Kontrollierte RTW-QuoteFlow-Demonstration mit fiktiven Luftfrachtdaten",
+        "caption": "Workflow-Illustration · fiktive Sendungs- und Lieferantendaten"
+      },
+      {
+        "id": "museum",
+        "name": "Museum",
+        "field": "Pilotprojekt",
+        "status": "Einblick folgt",
+        "headline": "Museum-Pilot.",
+        "summary": "Ein genauerer Einblick in diesen Piloten folgt.",
+        "deferred": true
+      },
+      {
+        "id": "mps",
+        "name": "MPS",
+        "field": "Multi-Agenten-Recherche",
+        "status": "Recherche-Pilot",
+        "headline": "Sehen, wie die Risiken zusammenhängen.",
+        "summary": "Ein Recherche-Pilot zu den Verbindungen zwischen Ernährung, Klima und Verschuldung – und den Organisationen, die an diesen Themen arbeiten.",
+        "title": "Mehr Perspektiven für die Recherche.",
+        "body": "Unabhängige Recherche-Stränge erkunden unterschiedliche Quellen. Ihre Erkenntnisse werden verglichen, mit Belegen verbunden und in einer gemeinsamen Karte zur menschlichen Prüfung zusammengeführt.",
+        "supports": [
+          "Verbundene Systeme erkunden",
+          "Aussagen an Originalquellen knüpfen",
+          "Gegenprüfung und fachliche Einordnung"
+        ],
+        "domains": [
+          "Ernährungssysteme",
+          "Klimadruck",
+          "Verschuldung"
+        ],
+        "question": "Wie beeinflussen sich diese Systeme?",
+        "uiType": "mps",
+        "caption": "Interface-Studie Kenia · Beispielvariablen und -verbindungen · keine Länderbewertung"
+      },
+      {
+        "id": "evi",
+        "name": "Evi / Earth Voice Index",
+        "field": "Multi-Agenten-Recherche",
+        "status": "Recherche-Pilot",
+        "headline": "Umweltwissen gemeinsam erschliessen.",
+        "summary": "Ein Recherche-Pilot zu Umweltbelastungen, den betroffenen Systemen und ihren Verbindungen.",
+        "title": "Das Wissen aus dem Feld sichtbar machen.",
+        "body": "Parallele Recherche-Stränge erkunden verschiedene Teile eines Umweltsystems. Quellen, Unsicherheiten und Verbindungen kommen in einer gemeinsamen Ansicht zusammen. Gegenprüfung und fachliche Einordnung begleiten die Interpretation.",
+        "supports": [
+          "Verbundene Umweltvariablen erkunden",
+          "Erkenntnisse zu Quellen zurückverfolgen",
+          "Unsicherheit und Fachwissen sichtbar halten"
+        ],
+        "domains": [
+          "Süsswasser",
+          "Waldlandschaften",
+          "Küstenökosysteme"
+        ],
+        "question": "Wo können sich verschiedene Perspektiven verbinden?",
+        "uiType": "evi",
+        "caption": "Bereitgestellte Prototyp-Ansichten · illustrative Beispieldaten · keine Regionalbewertung"
+      }
+    ]
+  }
+}
